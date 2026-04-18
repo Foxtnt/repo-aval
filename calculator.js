@@ -35,3 +35,6 @@ function square(v1) {
 }
 console.log('Soma:', sum(valorA, valorB))
 console.log('A divisão resulta em: ', div(valorA, valorB))
+console.log('A raiz quadrada de ', valorA, ' é: ', square(valorA))
+console.log('A raiz quadrada de ', valorB, ' é: ', square(valorB))
+
